@@ -1,0 +1,14 @@
+numpy
+keras
+gensim==4.2.0
+tensorflow
+keras-nlp
+pandas
+jupyter
+transformers
+matplotlib
+sklearn
+textblob
+spacy-transformers
+spacy==3.4
+spacy[transformers]
