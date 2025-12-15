@@ -131,3 +131,5 @@ dmypy.json
 .idea
 solutions
 .DS_Store
+.claude
+scripts
